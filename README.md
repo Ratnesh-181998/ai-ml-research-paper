@@ -20,11 +20,5 @@
 
 ---
 
-# Learn Retrieval-Augmented Generation (RAG) from Scratch – Complete Video Series by LangChain
-
-- [Watch the full playlist here:](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
-<img width="976" height="710" alt="image" src="https://github.com/user-attachments/assets/abd5dd1c-f6cd-475c-85db-b000f62e8ffc" />
-<img width="644" height="1139" alt="image" src="https://github.com/user-attachments/assets/df389fe3-f034-4b7c-9d1d-55b2997b75c7" />
-<img width="646" height="1139" alt="image" src="https://github.com/user-attachments/assets/90d1a827-85a9-4719-8e88-88f89b8c1631" />
 
 ---
