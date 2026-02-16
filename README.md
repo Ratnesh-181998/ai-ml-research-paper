@@ -12,6 +12,13 @@
 
 # 𝐘𝐨𝐮𝐫 𝐀𝐈 𝐒𝐞𝐜𝐨𝐧𝐝 𝐁𝐫𝐚𝐢𝐧: 𝐒𝐮𝐩𝐞𝐫𝐦𝐞𝐦𝐨𝐫𝐲
 
+- Memory makes your AI agent Unforgettable , Your AI isn’t intelligentuntil it remembers AI systems lose context as user data evolves.
+- Vector databases fail to track relationships.
+- RAGs retrieve knowledge but can’t remember. 
+- Try Supermemory’s personalization memory API.
+- Infers user intent Understands relationships, behavior and goals
+- Evolves with context Adapts facts, profiles, and insights as data changes
+- Learns from interactions Builds long-term, adaptive graph based memory
 - https://supermemory.ai/
 - [𝐒𝐮𝐩𝐞𝐫𝐦𝐞𝐦𝐨𝐫𝐲](https://github.com/supermemoryai/supermemory)
 - [Console](https://console.supermemory.ai/login)
