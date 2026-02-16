@@ -27,5 +27,9 @@
 
 ---
 
+# Google own the entire AI Agent market
+
+<img width="868" height="1053" alt="image" src="https://github.com/user-attachments/assets/d3042c84-e39a-4e7f-9cf9-86a7dee2b0c0" />
+<img width="776" height="1256" alt="image" src="https://github.com/user-attachments/assets/1a7ce311-a6df-4e5f-b488-26b237588a6c" />
 
 ---
