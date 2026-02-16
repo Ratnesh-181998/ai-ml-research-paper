@@ -8,5 +8,15 @@
  
 <img width="405" height="596" alt="image" src="https://github.com/user-attachments/assets/f0c99ac5-813d-4b78-80b3-140c9e4afcd0" />
 
+---
+
+# 𝐘𝐨𝐮𝐫 𝐀𝐈 𝐒𝐞𝐜𝐨𝐧𝐝 𝐁𝐫𝐚𝐢𝐧: 𝐒𝐮𝐩𝐞𝐫𝐦𝐞𝐦𝐨𝐫𝐲
+
+- https://supermemory.ai/
+- [𝐒𝐮𝐩𝐞𝐫𝐦𝐞𝐦𝐨𝐫𝐲](https://github.com/supermemoryai/supermemory)
+- [Console](https://console.supermemory.ai/login)
+<img width="842" height="887" alt="image" src="https://github.com/user-attachments/assets/0c50e254-cbf2-40b8-a05d-22448b4624c7" />
+<img width="849" height="814" alt="image" src="https://github.com/user-attachments/assets/703d04a4-bc30-4ddb-9630-ee1183663f95" />
+
 
 ---
