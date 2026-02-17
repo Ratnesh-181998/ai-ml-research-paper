@@ -29,7 +29,7 @@
 
 # Meta’s FAIR team released a paper titled “Learning to Reason in 13 Parameters,” and it quietly challenges one of the assumptions most of us have about training large language models.
 
-- [Learning to Reason in 13 Parameters]()
+- [Learning to Reason in 13 Parameters](https://github.com/Ratnesh-181998/ai-ml-research-paper/blob/main/Learning%20to%20Reason%20in%2013%20Parameters.pdf)
 
 <img width="547" height="727" alt="image" src="https://github.com/user-attachments/assets/381ae50d-01b8-4249-b992-976e09d88ce1" />
 
