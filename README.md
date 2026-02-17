@@ -27,6 +27,15 @@
 
 ---
 
+# Meta’s FAIR team released a paper titled “Learning to Reason in 13 Parameters,” and it quietly challenges one of the assumptions most of us have about training large language models.
+
+- [Learning to Reason in 13 Parameters]()
+
+<img width="547" height="727" alt="image" src="https://github.com/user-attachments/assets/381ae50d-01b8-4249-b992-976e09d88ce1" />
+
+
+---
+
 # Google own the entire AI Agent market
 
 <img width="868" height="1053" alt="image" src="https://github.com/user-attachments/assets/d3042c84-e39a-4e7f-9cf9-86a7dee2b0c0" />
