@@ -43,3 +43,59 @@
 <img width="737" height="448" alt="image" src="https://github.com/user-attachments/assets/b446bf89-9ba3-4498-b4a5-22b17ca84cde" />
 
 ---
+
+# 10 GitHub Repos to Build a Career in AI Engineering, whether you're just starting or pivoting into AI, here’s a step-by-step progression from beginner to production-ready AI engineer
+
+## Phase 1: Foundations of Machine Learning and AI
+
+### 1. ML for Beginners by Microsoft
+- Tools: Scikit-learn, real-world datasets
+- GitHub: https://lnkd.in/gxA5GqqT
+
+### 2. AI for Beginners by Microsoft
+- Topics: Neural networks, NLP, CV, transformers, ethics
+- GitHub: https://lnkd.in/ggbqVJQy
+
+## Phase 2: Deep Learning and Core Architectures
+
+### 3. Neural Networks: Zero to Hero by Andrej Karpathy
+- Covers: Building GPTs and DL systems from scratch
+- GitHub: https://lnkd.in/ghfgzzzd
+
+### 4. Deep Learning Paper Implementations
+- Topics: Transformers, GANs, Diffusion, Attention
+- GitHub:https://lnkd.in/gpWUmFmr
+
+## hase 3: MLOps and Real-World Engineering
+
+### 5. Made With ML
+- Focus: Model development, CI/CD, deployment workflows
+- GitHub: https://lnkd.in/g-DiU5TT
+
+## Phase 4: LLMs and Retrieval-Augmented Generation (RAG)
+
+### 6. Hands-on LLMs
+- Topics: Tokenization, fine-tuning, RAG, evaluation
+- GitHub: https://lnkd.in/gt-gtcV9
+
+### 7. Advanced RAG Techniques
+- Includes: HyDE, GraphRAG, Query expansion methods
+- GitHub: https://lnkd.in/gRMaARbj
+
+## Phase 5: AI Agents and Autonomous Systems
+
+### 8. AI Agents for Beginners by Microsoft
+- Learn: Multi-step reasoning and agent orchestration
+- GitHub: https://lnkd.in/gMdwGyNX
+
+### 9. Agents Towards Production
+- Topics: Memory, deployment, security, reliability
+- GitHub: https://lnkd.in/gqBZNmGV
+
+### 10. AI Engineering Hub
+- Topics: LLMs, RAG, agents, vector stores, prompt pipelines
+- GitHub: https://lnkd.in/gJd5Em8k
+
+---
+
+
