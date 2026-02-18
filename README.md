@@ -1,5 +1,11 @@
 # ai-ml-research-paper
 
+--- 
+
+<img width="890" height="1091" alt="image" src="https://github.com/user-attachments/assets/9b7e79a8-3c34-4b79-b01a-1ccd40b2bae5" />
+<img width="877" height="1363" alt="image" src="https://github.com/user-attachments/assets/f666487a-4636-41f0-90a2-ab01a663432a" />
+
+
 ---
 
 # 𝐌𝐞𝐦𝐑𝐞𝐜 : 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐦𝐞𝐦𝐨𝐫𝐲 𝐟𝐨𝐫 𝐚𝐠𝐞𝐧𝐭𝐢𝐜 𝐫𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐞𝐫 𝐬𝐲𝐬𝐭𝐞𝐦𝐬
