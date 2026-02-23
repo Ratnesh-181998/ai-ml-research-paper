@@ -104,4 +104,11 @@
 
 ---
 
+# Microsoft’s Fara-7B: A Breakthrough in Agentic AI for Computer Use
+
+<img width="1013" height="948" alt="image" src="https://github.com/user-attachments/assets/d99f8072-ac8f-4e0b-864a-282ea1cbcb56" />
+<img width="964" height="1139" alt="image" src="https://github.com/user-attachments/assets/1fbf8a0d-766d-4efa-b9be-d9111f3a8b31" />
+
+---
+
 
