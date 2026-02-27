@@ -111,4 +111,12 @@
 
 ---
 
+# Want to actually understand what’s happening inside a Transformer
+
+## [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+<img width="872" height="768" alt="image" src="https://github.com/user-attachments/assets/b8ca54cb-dbf3-4cf1-8627-48db0ed49e00" />
+<img width="903" height="1158" alt="image" src="https://github.com/user-attachments/assets/7bac8100-de3e-40fa-88be-01a4d0a2f864" />
+
+---
+
 
