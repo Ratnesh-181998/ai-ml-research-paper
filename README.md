@@ -119,4 +119,11 @@
 
 ---
 
+# CUDA Agent: Agentic Reinforcement Learning for CUDA Kernel Optimization
+## [CUDA Agent](https://github.com/Ratnesh-181998/ai-ml-research-paper/blob/main/CUDA%20Agent-%20Agentic%20Reinforcement%20Learning%20for%20CUDA%20Kernel%20Optimization.pdf)
+<img width="803" height="632" alt="image" src="https://github.com/user-attachments/assets/fb9204b1-9233-4eae-b90b-6c8025bca739" />
+
+---
+
+
 
