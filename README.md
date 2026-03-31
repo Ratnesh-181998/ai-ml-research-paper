@@ -136,7 +136,7 @@
 
 # Breaking the Capability Ceiling of LLM Post-Training by Reintroducing
 
-- []()
+- [Breaking the Capability Ceiling of LLM](https://github.com/Ratnesh-181998/ai-ml-research-paper/blob/main/Breaking%20the%20capability%20Ceiling%20of%20LLM.pdf)
 
 <img width="1097" height="1042" alt="image" src="https://github.com/user-attachments/assets/fecd4cd9-ec92-4dde-96af-6552391d39b3" />
 
