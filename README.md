@@ -134,6 +134,15 @@
 
 ---
 
+# Breaking the Capability Ceiling of LLM Post-Training by Reintroducing
+
+- []()
+
+<img width="1097" height="1042" alt="image" src="https://github.com/user-attachments/assets/fecd4cd9-ec92-4dde-96af-6552391d39b3" />
+
+---
+
+
 
 
 
