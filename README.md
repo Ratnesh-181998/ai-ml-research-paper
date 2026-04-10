@@ -152,8 +152,24 @@
 
 ---
 
+# BERT Research Series by Chris McCormick
+
+This BERT Research Series by Chris McCormick is one of the most detailed and well-explained video resources on the internet. 
+
+It covers:
+
+1. Key Concepts behind BERT and its architecture
+2. How WordPiece embeddings work
+3. Fine-tuning 
+4. Deep dive into the "inner workings" of BERT (Parts I–V)
+
+- YouTube Link : https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6
+
+<img width="2252" height="948" alt="image" src="https://github.com/user-attachments/assets/cab95b3c-9408-43db-859c-a37eacc5edb4" />
 
  
+---
+
 
 
 
