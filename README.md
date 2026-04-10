@@ -142,6 +142,18 @@
 
 ---
 
+# [Revolutionizing GPU Optimization with Autonomous AI Agents]()
+
+- Read Here : https://arxiv.org/abs/2603.21331
+- GitHub Link: https://github.com/RightNow-AI/autokernel
+
+<img width="740" height="1222" alt="image" src="https://github.com/user-attachments/assets/42e0943e-54d4-4817-a95e-6707465e86b3" />
+
+
+---
+
+
+ 
 
 
 
